@@ -6,7 +6,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanEysmond)](https://git.io/streak-stats)
 
 [![codewars](https://www.codewars.com/users/RomanEis/badges/large)](https://www.codewars.com/users/RomanEis) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanEysmond&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanEysmond&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanEysmond&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanEysmond&theme=2077&utcOffset=8)
 
 <!--
 **RomanEysmond/RomanEysmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
