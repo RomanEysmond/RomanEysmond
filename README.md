@@ -6,7 +6,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanEysmond)](https://git.io/streak-stats)
 
 [![codewars](https://www.codewars.com/users/RomanEis/badges/large)](https://www.codewars.com/users/RomanEis) 
-<h1 align="left">![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanEysmond&theme=2077)  </a> 
+<h1 align="left"> ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanEysmond&theme=2077)</h1>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanEysmond&theme=2077&utcOffset=8)
 
 <!--
