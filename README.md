@@ -9,7 +9,17 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanEysmond)](https://git.io/streak-stats)
 
+<h3 align="left">CodeWars - это один из способов стать лучше в рамках алгоритмического программирования и создания более эффективных решений.
+Мне нравятся задачи оттуда, ведь ты можешь их решать где угодно и как угодно. Эта гибкость захватила меня с первого дня и позволила открыть новые горизонты, понять свои сильные стороны</h3>
+
+<h3 align="left">
+
 [![codewars](https://www.codewars.com/users/RomanEis/badges/large)](https://www.codewars.com/users/RomanEis) 
+
+<h2 align="center">Небольшая статитстика из разрабатываемых мною проектов</h2>
+
+<h3 align="center">
+
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanEysmond&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanEysmond&theme=2077&utcOffset=8)
 
