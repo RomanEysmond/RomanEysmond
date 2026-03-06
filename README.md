@@ -2,7 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+-+%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1+%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" alt="Typing SVG" /></a>
-
+<h3 align="left">
+Каждый день - это возможность стать лучше, я стараюсь её использовать. Это может быть написание кода, размышление над решением интересной задачи, чтение или просто отдых, как способ обновить сознание. 
+Важно всё, что ты делаешь и не делаешь.</h3>
+<h1 align="center">
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanEysmond)](https://git.io/streak-stats)
 
 [![codewars](https://www.codewars.com/users/RomanEis/badges/large)](https://www.codewars.com/users/RomanEis) 
