@@ -5,7 +5,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanEysmond)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanEysmond&repo=IOS-Calendar)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/RomanEysmond/IOS-Calendar))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanEysmond&repo=IOS-Calendar)](https://github.com/RomanEysmond/IOS-Calendar)
 
 <!--
 **RomanEysmond/RomanEysmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
