@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Roman</a> 
+<h1 align="center">
+ $${\color{green} Hi \space there, \space I'm \space Roman }$$</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+-+%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1+%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" alt="Typing SVG" /></a>
 <h3 align="center">
@@ -9,16 +10,16 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanEysmond)](https://git.io/streak-stats)
 
 
-<h2 align="center">$${\color{blue}CodeWars}$$</h2>
+<h2 align="center">$${\color{green}CodeWars}$$</h2>
 <h3 align="center">
  $${\color{red}CodeWars}$$ - это один из способов стать лучше в рамках алгоритмического программирования и создания более эффективных решений.
 Мне нравятся задачи оттуда, ведь ты можешь их решать где угодно и как угодно. Эта гибкость захватила меня с первого дня и позволила открыть новые горизонты, понять свои сильные стороны</h3>
 
 <h3 align="left">
 
-[![codewars](https://www.codewars.com/users/RomanEis/badges/large)](https://www.codewars.com/users/RomanEis) 
+[![codewars](https://www.codewars.com/users/RomanEis/badges/large)](https://www.codewars.com/users/RomanEis)  </h3>
 
-<h2 align="center">$${\color{blue}Небольшая \space статиcтика \space из \space разрабатываемых \space мною \space проектов}$$</h2>
+<h2 align="center">$${\color{green}Небольшая \space статиcтика \space из \space разрабатываемых \space мною \space проектов}$$</h2>
 <h3 align="center">Каждый из pet-проектов для меня - возможность созать что-то новое, нужное и эффективное, отточить свои навыки.
  Большая часть из проектов написаны на XML, так как он всё ещё один самых популярных подходов, и ещё не скоро будет везде заменён на Compose.
  Часть проектов написана на Compose, который мне нравится больше, ибо это современно и очень удобно, если его освоить.
