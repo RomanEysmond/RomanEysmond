@@ -20,8 +20,14 @@
 
 <h3 align="center">
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanEysmond&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanEysmond&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanEysmond&theme=2077&utcOffset=8)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/RomanEysmond/github-profile-trophy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanEysmond&layout=compact)](https://github.com/RomanEysmond/IOS-Calendar)
+
 
 <!--
 **RomanEysmond/RomanEysmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
